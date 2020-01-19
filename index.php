@@ -1,1 +1,1 @@
-<h1>GitHub pages</h1>
+<?php echo "<h1>GitHub pages</h1>"; ?>
