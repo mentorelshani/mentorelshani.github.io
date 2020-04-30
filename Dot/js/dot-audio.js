@@ -90,7 +90,6 @@ var DotAudio = new function() {
         }
     }
 
-
     this.organismDead = function() {
         var midicps = T("midicps");
         var note = notes[Math.random() * 5 | 0];
@@ -129,7 +128,6 @@ var DotAudio = new function() {
             r: 2000
         }, osc).bang().play();
     }
-
 
     this.energyUp = function() {
         var energyFreq = T("param", {

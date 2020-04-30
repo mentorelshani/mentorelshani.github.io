@@ -3,13 +3,9 @@ var Dot = new function () {
     var isMobile = !!navigator.userAgent.toLowerCase()
         .match(/ipod|ipad|iphone|android/gi);
 
-    var DEFAULT_WIDTH = 1000
-        , DEFAULT_HEIGHT = 650
-        , BORDER_WIDTH = 6
-        , FRAMERATE = 60;
+    var DEFAULT_WIDTH = 1000, DEFAULT_HEIGHT = 650, BORDER_WIDTH = 6, FRAMERATE = 60;
 
-    var ORGANISM_ENEMY = 'enemy'
-        , ORGANISM_ENERGY = 'energy';
+    var ORGANISM_ENEMY = 'enemy', ORGANISM_ENERGY = 'energy';
 
     var world = {
         width: isMobile ? window.innerWidth : DEFAULT_WIDTH
