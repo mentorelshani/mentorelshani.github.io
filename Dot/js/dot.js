@@ -565,8 +565,8 @@ Point.prototype.distanceTo = function (p) {
 };
 Point.prototype.clonePosition = function () {
     return {
-        x: this.position.x
-        , y: this.position.y
+        x: this.position.x,
+        y: this.position.y
     };
 };
 
@@ -594,8 +594,8 @@ Player.prototype.updateDot = function () {
         for (i = 0; i < this.dotQuality; i++) {
             n = {
                 position: {
-                    x: this.position.x
-                    , y: this.position.y
+                    x: this.position.x,
+                    y: this.position.y
                 }
                 , normal: {
                     x: 0

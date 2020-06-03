@@ -1,7 +1,1000 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb548ac7-f5ef-427b-a5ae-7dcf6c628be6" name="Default Changelist" comment="" />
+    <list default="true" id="bb548ac7-f5ef-427b-a5ae-7dcf6c628be6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/brand/coreui.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/android-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/android-icon-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/android-icon-36x36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/android-icon-48x48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/android-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/android-icon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/apple-icon-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/apple-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/apple-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/apple-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/apple-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/apple-icon-57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/apple-icon-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/apple-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/apple-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/apple-icon-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/favicon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/ms-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/ms-icon-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/ms-icon-310x310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/favicon/ms-icon-70x70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/3d.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/4k.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/account-logout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/action-redo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/action-undo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/address-book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/airplane-mode-off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/airplane-mode.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/airplay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/alarm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/album.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/align-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/align-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/align-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/american-football.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/android.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/angular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/aperture.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/apple.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/applications-settings.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/applications.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-circle-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-circle-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-circle-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-circle-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-thick-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-thick-from-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-thick-from-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-thick-from-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-thick-from-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-thick-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-thick-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-thick-to-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-thick-to-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-thick-to-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-thick-to-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-thick-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/arrow-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/assistive-listening-system.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/asterisk-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/asterisk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/at.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/audio-description.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/audio-spectrum.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/audio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/av-timer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/badge.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/balance-scale.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/ban.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/bank.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/bar-chart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/barcode.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/baseball.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/basket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/basketball.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/bath.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/battery-0.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/battery-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/battery-5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/battery-alert.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/battery-slash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/beach-access.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/beaker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/bed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/bell.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/bike.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/birthday-cake.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/blind.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/bluetooth.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/blur-circular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/blur-linear.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/blur.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/boat-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/bolt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/bookmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/bootstrap.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/border-all.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/border-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/border-clear.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/border-horizontal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/border-inner.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/border-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/border-outer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/border-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/border-style.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/border-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/border-vertical.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/bowling.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/braille.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/500px.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/accessible-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/accusoft.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/acquisitions-incorporated.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/adn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/adobe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/adversal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/affiliatetheme.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/airbnb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/algolia.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/alipay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/amazon-pay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/amazon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/amilia.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/android.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/angellist.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/angrycreative.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/angular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/app-store-ios.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/app-store.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/apper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/apple-pay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/apple.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/artstation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/asymmetrik.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/atlassian.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/audible.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/autoprefixer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/avianex.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/aviato.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/aws.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/bandcamp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/battle-net.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/behance-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/behance.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/bimobject.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/bitbucket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/bitcoin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/bity.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/black-tie.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/blackberry.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/blogger-b.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/blogger.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/bluetooth-b.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/bluetooth.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/bootstrap.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/brands-symbol-defs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/btc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/buffer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/buromobelexperte.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/buysellads.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/canadian-maple-leaf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/cc-amazon-pay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/cc-amex.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/cc-apple-pay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/cc-diners-club.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/cc-discover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/cc-jcb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/cc-mastercard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/cc-paypal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/cc-stripe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/cc-visa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/centercode.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/centos.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/chrome.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/chromecast.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/cloudscale.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/cloudsmith.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/cloudversify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/codepen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/codiepie.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/confluence.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/connectdevelop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/contao.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/cpanel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/creative-commons-by.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/creative-commons-nc-eu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/creative-commons-nc-jp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/creative-commons-nc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/creative-commons-nd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/creative-commons-pd-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/creative-commons-pd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/creative-commons-remix.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/creative-commons-sa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/creative-commons-sampling-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/creative-commons-sampling.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/creative-commons-share.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/creative-commons-zero.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/creative-commons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/critical-role.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/css3-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/css3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/cuttlefish.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/d-and-d-beyond.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/d-and-d.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/dashcube.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/delicious.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/deploydog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/deskpro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/dev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/deviantart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/dhl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/diaspora.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/digg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/digital-ocean.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/discord.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/discourse.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/dochub.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/docker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/draft2digital.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/dribbble-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/dribbble.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/dropbox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/drupal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/dyalog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/earlybirds.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/ebay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/edge.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/elementor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/ello.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/ember.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/empire.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/envira.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/erlang.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/ethereum.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/etsy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/evernote.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/expeditedssl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/facebook-f.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/facebook-messenger.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/facebook-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/fantasy-flight-games.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/fedex.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/fedora.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/figma.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/firefox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/first-order-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/first-order.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/firstdraft.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/flickr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/flipboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/fly.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/font-awesome-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/font-awesome-flag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/font-awesome-logo-full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/font-awesome.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/fonticons-fi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/fonticons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/fort-awesome-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/fort-awesome.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/forumbee.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/foursquare.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/free-code-camp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/freebsd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/fulcrum.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/galactic-republic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/galactic-senate.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/get-pocket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/gg-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/gg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/git-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/git-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/git.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/github-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/github-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/gitkraken.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/gitlab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/gitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/glide-g.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/glide.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/gofore.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/goodreads-g.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/goodreads.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/google-drive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/google-play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/google-plus-g.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/google-plus-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/google-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/google-wallet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/google.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/gratipay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/grav.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/gripfire.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/grunt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/gulp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/hacker-news-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/hacker-news.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/hackerrank.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/hips.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/hire-a-helper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/hooli.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/hornbill.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/hotjar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/houzz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/html5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/hubspot.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/imdb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/intercom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/internet-explorer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/invision.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/ioxhost.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/itch-io.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/itunes-note.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/itunes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/java.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/jedi-order.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/jenkins.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/jira.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/joget.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/joomla.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/js-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/js.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/jsfiddle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/kaggle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/keybase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/keycdn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/kickstarter-k.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/kickstarter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/korvue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/laravel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/lastfm-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/lastfm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/leanpub.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/less.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/line.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/linkedin-in.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/linode.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/linux.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/lyft.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/magento.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/mailchimp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/mandalorian.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/markdown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/mastodon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/maxcdn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/medapps.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/medium-m.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/medium.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/medrt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/meetup.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/megaport.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/mendeley.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/microsoft.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/mix.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/mixcloud.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/mizuni.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/modx.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/monero.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/napster.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/neos.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/nimblr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/node-js.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/node.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/npm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/ns8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/nutritionix.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/odnoklassniki-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/odnoklassniki.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/old-republic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/opencart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/openid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/opera.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/optin-monster.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/osi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/page4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/pagelines.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/palfed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/patreon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/paypal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/penny-arcade.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/periscope.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/phabricator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/phoenix-framework.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/phoenix-squadron.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/php.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/pied-piper-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/pied-piper-hat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/pied-piper-pp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/pied-piper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/pinterest-p.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/pinterest-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/pinterest.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/playstation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/product-hunt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/pushed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/python.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/qq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/quinscape.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/quora.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/r-project.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/raspberry-pi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/ravelry.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/reacteurope.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/readme.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/rebel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/red-river.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/reddit-alien.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/reddit-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/reddit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/redhat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/renren.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/replyd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/researchgate.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/resolving.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/rev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/rocketchat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/rockrms.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/safari.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/salesforce.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/sass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/schlix.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/scribd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/searchengin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/sellcast.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/sellsy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/servicestack.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/shirtsinbulk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/shopware.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/simplybuilt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/sistrix.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/sith.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/sketch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/skyatlas.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/skype.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/slack-hash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/slack.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/slideshare.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/snapchat-ghost.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/snapchat-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/snapchat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/soundcloud.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/sourcetree.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/speakap.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/speaker-deck.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/spotify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/squarespace.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/stack-exchange.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/stack-overflow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/stackpath.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/staylinked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/steam-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/steam-symbol.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/steam.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/sticker-mule.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/strava.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/stripe-s.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/stripe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/studiovinari.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/stumbleupon-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/stumbleupon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/superpowers.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/supple.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/suse.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/symfony.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/teamspeak.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/telegram-plane.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/telegram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/tencent-weibo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/the-red-yeti.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/themeco.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/themeisle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/think-peaks.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/trade-federation.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/trello.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/tripadvisor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/tumblr-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/tumblr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/twitch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/twitter-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/typo3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/uber.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/ubuntu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/uikit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/uniregistry.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/untappd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/ups.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/usb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/usps.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/ussunnah.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/vaadin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/viacoin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/viadeo-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/viadeo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/viber.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/vimeo-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/vimeo-v.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/vimeo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/vine.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/vnv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/vuejs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/waze.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/weebly.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/weibo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/weixin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/whatsapp-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/whatsapp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/whmcs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/wikipedia-w.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/windows.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/wix.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/wizards-of-the-coast.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/wolf-pack-battalion.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/wordpress-simple.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/wordpress.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/wpbeginner.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/wpexplorer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/wpforms.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/wpressr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/xbox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/xing-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/xing.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/y-combinator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/yahoo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/yammer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/yandex-international.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/yandex.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/yarn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/yelp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/yoast.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/youtube-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/youtube.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brands/zhihu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/briefcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brightness.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/british-pound.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/browser.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brush-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/brush.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/bug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/building.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/bullhorn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/burger.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/bus-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/calculator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/calendar-check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/camera-control.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/camera-roll.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/camera.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/car-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/caret-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/caret-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/caret-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/caret-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/casino.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/cast.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/cat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/center-focus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chart-line.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chart-pie.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chat-bubble.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chevron-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chevron-circle-down-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chevron-circle-left-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chevron-circle-right-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chevron-circle-up-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chevron-double-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chevron-double-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chevron-double-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chevron-double-up-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chevron-double-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chevron-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chevron-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/chevron-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/child-friendly.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/child.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/clear-all.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/clipboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/clone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/closed-captioning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/cloud-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/cloud-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/cloud.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/cloudy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/codepen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/coffee.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/color-border.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/color-fill.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/color-palette.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/columns.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/comment-bubble.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/comment-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/compass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/compress.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/contact.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/contrast.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/copyright.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/coreui/free-symbol-defs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/couch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/credit-card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/crop-rotate.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/crop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/cursor-move.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/cursor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/cut.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/data-transfer-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/data-transfer-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/deaf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/description.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/devices.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/dialpad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/dinner.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/dog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/dollar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/door.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/double-quote-sans-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/double-quote-sans-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/drink-alcohol.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/drink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/drop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/drop1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/elevator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/energy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/envelope-closed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/envelope-letter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/envelope-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/equalizer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/ethernet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/euro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/excerpt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/exit-to-app.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/expand-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/expand-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/expand-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/expand-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/exposure.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/external-link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/eye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/eyedropper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/face-dead.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/face.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/fastfood.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/fax.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/featured-playlist.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/file.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/filter-frames.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/filter-photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/filter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/find-in-page.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/fingerprint.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/fire.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/flag-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/flight-takeoff.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/flip-to-back.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/flip-to-front.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/flip.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/flower.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/folder-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/folder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/font.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/football.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/fork.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/fridge.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/frown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/fullscreen-exit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/fullscreen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/functions-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/functions.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/gamepad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/garage.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/gem.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/gif.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/gift.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/git.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/github-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/gitlab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/globe-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/golf-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/golf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/gradient.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/grain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/graph.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/grid-slash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/grid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/hand-point-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/hand-point-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/hand-point-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/hand-point-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/hd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/hdr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/header.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/headphones.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/healing.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/highlighter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/highligt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/history.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/hospital.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/hot-tub.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/house.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/https.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/image-broken.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/image-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/image1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/inbox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/indent-decrease.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/indent-increase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/industry-slash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/industry.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/infinity.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/info.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/input-hdmi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/input-power.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/input.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/institution.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/justify-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/justify-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/justify-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/keyboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/lan.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/language.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/laptop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/layers.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/leaf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/lemon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/level-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/level-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/library-add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/library.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/life-ring.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/lightbulb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/line-spacing.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/line-style.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/line-weight.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/link-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/link-broken.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/list-filter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/list-high-priority.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/list-low-priority.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/list-numbered.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/list-rich.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/list.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/location-pin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/lock-locked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/lock-unlocked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/locomotive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/loop-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/loop-circular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/loop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/low-vision.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/magnifying-glass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/media-eject.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/media-pause.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/media-play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/media-record.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/media-skip-backward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/media-skip-forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/media-step-backward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/media-step-forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/media-stop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/medical-cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/meh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/memory.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/microphone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/minus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/mobile-landscape.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/mobile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/money.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/monitor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/mood-bad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/mood-good.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/mood-very-bad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/mood-very-good.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/moon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/mouse.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/mouth-slash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/move.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/movie.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/mug-tea.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/mug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/music-note.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/newspaper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/notes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/object-group.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/object-ungroup.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/opacity.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/options-horizontal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/options.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/paint-bucket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/paint.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/paper-plane.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/paperclip.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/paragraph.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/paw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/pen-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/pen-nib.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/pencil.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/people.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/pin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/pizza.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/playlist-add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/polymer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/pool.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/power-standby.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/pregnant.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/print.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/puzzle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/qr-code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/rain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/rectangle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/reddit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/registered.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/reload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/resize-both.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/resize-height.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/resize-width.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/restaurant.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/room.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/rowing.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/rss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/running.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/satelite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/save.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/school.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/screen-desktop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/screen-smartphone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/scrubber.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/settings.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/share-all.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/share-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/share-boxed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/share.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/shield-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/short-text.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/shower.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/sign-language.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/signal-cellular-0.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/signal-cellular-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/signal-cellular-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/sim.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/sitemap.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/skype.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/smile-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/smile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/smoke-free.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/smoking-room.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/snowflake.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/sort-alpha-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/sort-alpha-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/sort-ascending.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/sort-descending.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/sort-numeric-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/sort-numeric-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/spa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/space-bar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/speaker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/speech.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/speedometer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/spotify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/spreadsheet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/stackoverflow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/star-half.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/storage.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/stream.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/sun.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/swap-horizontal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/swap-vertical.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/swimming.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/sync.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/tablet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/tag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/tags.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/task.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/taxi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/tennis-ball.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/tennis.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/terminal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/terrain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/text-shapes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/text-size.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/text-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/text-strike.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/text.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/thumb-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/thumb-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/toggle-off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/toilet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/touch-app.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/trademark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/transfer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/translate.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/trash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/triangle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/truck.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/tv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/underline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/user-female.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/user-follow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/user-unfollow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/vector.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/vertical-align-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/vertical-align-bottom1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/vertical-align-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/vertical-align-center1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/vertical-align-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/vertical-align-top1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/video.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/view-column.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/view-module.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/view-quilt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/view-stream.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/voice-over-record.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/volume-high.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/volume-low.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/volume-off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/vue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/walk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/wallet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/wallpaper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/warning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/watch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/wc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/weightlifitng.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/wheelchair.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/wifi-signal-0.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/wifi-signal-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/wifi-signal-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/wifi-signal-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/wifi-signal-off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/window-maximize.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/window-minimize.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/window-restore.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/window.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/wrap-text.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/x-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/x.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/yen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/zoom-in.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/icons/zoom-out.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/img/avatars/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/img/avatars/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/img/avatars/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/img/avatars/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/img/avatars/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/img/avatars/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/img/avatars/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/assets/img/avatars/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dot/js/dot.js" beforeDir="false" afterPath="$PROJECT_DIR$/Dot/js/dot.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,27 +1002,138 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dot/js/dot.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="620" selection-start-line="620" selection-end-line="620" />
+              <folding>
+                <element signature="e#1688#2877#0" />
+                <element signature="e#3349#3767#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Dashboard/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="17440" column="60" lean-forward="true" selection-start-line="17440" selection-start-column="60" selection-end-line="17440" selection-end-column="60" />
+              <folding>
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+                <element signature="e#106300#106496#2" expanded="true" />
+                <element signature="e#106577#106774#2" expanded="true" />
+                <element signature="e#113346#113554#2" expanded="true" />
+                <element signature="e#113871#114028#2" expanded="true" />
+                <element signature="e#114585#114741#2" expanded="true" />
+                <element signature="e#117619#117793#1" expanded="true" />
+                <element signature="e#147431#147686#2" expanded="true" />
+                <element signature="e#149164#149338#1" expanded="true" />
+                <element signature="e#149380#149635#1" expanded="true" />
+                <element signature="e#153092#153406#2" expanded="true" />
+                <element signature="e#154908#155082#1" expanded="true" />
+                <element signature="e#155124#155438#1" expanded="true" />
+                <element signature="e#202558#202811#2" expanded="true" />
+                <element signature="e#202917#203169#2" expanded="true" />
+                <element signature="e#204815#205062#2" expanded="true" />
+                <element signature="e#205154#205401#2" expanded="true" />
+                <element signature="e#259770#260033#2" expanded="true" />
+                <element signature="e#261382#261640#2" expanded="true" />
+                <element signature="e#329442#329858#2" expanded="true" />
+                <element signature="e#330832#331248#2" expanded="true" />
+                <element signature="e#331445#331879#2" expanded="true" />
+                <element signature="e#333593#334012#2" expanded="true" />
+                <element signature="e#334344#334760#2" expanded="true" />
+                <element signature="e#339521#339937#2" expanded="true" />
+                <element signature="e#341061#341477#2" expanded="true" />
+                <element signature="e#341706#342135#2" expanded="true" />
+                <element signature="e#343999#344418#2" expanded="true" />
+                <element signature="e#344814#345233#2" expanded="true" />
+                <element signature="n#script#0;n#head#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#td#3;n#tr#1;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#td#3;n#tr#2;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#td#3;n#tr#3;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#td#3;n#tr#4;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#td#3;n#tr#5;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#script#0;n#html#0;n#!!top" />
+                <element signature="e#1380604#1380983#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dot/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dot/js/timbre.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="20787" selection-start-line="3" selection-start-column="20787" selection-end-line="3" selection-end-column="20787" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>startButton</find>
+      <find>favicon</find>
+      <find>pulse</find>
+      <find>startB</find>
+      <find>energyCount</find>
+      <find>-= 6</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="207" />
-    <option name="y" value="-23" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Dot/js/dot-audio.js" />
+        <option value="$PROJECT_DIR$/Dot/index.html" />
+        <option value="$PROJECT_DIR$/Dot/js/timbre.js" />
+        <option value="$PROJECT_DIR$/Dot/js/dot.js" />
+        <option value="$PROJECT_DIR$/Dashboard/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -37,6 +1141,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -47,23 +1152,63 @@
             <path>
               <item name="mentorelshani.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="mentorelshani.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="CoreGame" type="462c0819:PsiDirectoryNode" />
+              <item name="Dashboard" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mentorelshani.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="mentorelshani.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="CoreGame" type="462c0819:PsiDirectoryNode" />
+              <item name="Dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mentorelshani.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mentorelshani.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="Dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mentorelshani.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mentorelshani.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="Dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="avatars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mentorelshani.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mentorelshani.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="Dot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mentorelshani.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mentorelshani.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="Dot" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mentorelshani.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mentorelshani.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="Dot" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mentori\Desktop\software projects\mentorelshani.github.io\Dashboard" />
+      <recent name="C:\Users\Mentori\Desktop\software projects\mentorelshani.github.io" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -87,24 +1232,54 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581021075387</updated>
-      <workItem from="1581021076625" duration="243000" />
+      <workItem from="1581021076625" duration="3136000" />
+      <workItem from="1587023912443" duration="1897000" />
+      <workItem from="1588230925815" duration="1197000" />
+      <workItem from="1588234798316" duration="59000" />
+      <workItem from="1588235398181" duration="3775000" />
+      <workItem from="1591223244009" duration="514000" />
     </task>
+    <task id="LOCAL-00001" summary="Core game">
+      <created>1581021370121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581021370121</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Core game">
+      <created>1581021562368</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581021562368</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Dot">
+      <created>1581021772466</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581021772466</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Dot">
+      <created>1588235478138</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588235478138</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243000" />
+    <option name="totallyTimeSpent" value="10578000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="1358" y="-8" width="1696" height="1026" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11369193" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -112,21 +1287,136 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.22732362" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Core game" />
+    <MESSAGE value="Dot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dot" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/CoreGame/js/dot.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="6083" column="4" selection-start-line="6083" selection-start-column="4" selection-end-line="6083" selection-end-column="4" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dot/js/dot-audio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="131" column="4" selection-start-line="131" selection-start-column="4" selection-end-line="131" selection-end-column="4" />
+          <folding>
+            <element signature="e#264#299#0" />
+            <element signature="e#335#401#0" />
+            <element signature="e#565#633#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dot/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4461" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dot/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dot/js/timbre.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="20787" selection-start-line="3" selection-start-column="20787" selection-end-line="3" selection-end-column="20787" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dot/js/dot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="620" selection-start-line="620" selection-end-line="620" />
+          <folding>
+            <element signature="e#1688#2877#0" />
+            <element signature="e#3349#3767#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dashboard/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="17440" column="60" lean-forward="true" selection-start-line="17440" selection-start-column="60" selection-end-line="17440" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+            <element signature="e#106300#106496#2" expanded="true" />
+            <element signature="e#106577#106774#2" expanded="true" />
+            <element signature="e#113346#113554#2" expanded="true" />
+            <element signature="e#113871#114028#2" expanded="true" />
+            <element signature="e#114585#114741#2" expanded="true" />
+            <element signature="e#117619#117793#1" expanded="true" />
+            <element signature="e#147431#147686#2" expanded="true" />
+            <element signature="e#149164#149338#1" expanded="true" />
+            <element signature="e#149380#149635#1" expanded="true" />
+            <element signature="e#153092#153406#2" expanded="true" />
+            <element signature="e#154908#155082#1" expanded="true" />
+            <element signature="e#155124#155438#1" expanded="true" />
+            <element signature="e#202558#202811#2" expanded="true" />
+            <element signature="e#202917#203169#2" expanded="true" />
+            <element signature="e#204815#205062#2" expanded="true" />
+            <element signature="e#205154#205401#2" expanded="true" />
+            <element signature="e#259770#260033#2" expanded="true" />
+            <element signature="e#261382#261640#2" expanded="true" />
+            <element signature="e#329442#329858#2" expanded="true" />
+            <element signature="e#330832#331248#2" expanded="true" />
+            <element signature="e#331445#331879#2" expanded="true" />
+            <element signature="e#333593#334012#2" expanded="true" />
+            <element signature="e#334344#334760#2" expanded="true" />
+            <element signature="e#339521#339937#2" expanded="true" />
+            <element signature="e#341061#341477#2" expanded="true" />
+            <element signature="e#341706#342135#2" expanded="true" />
+            <element signature="e#343999#344418#2" expanded="true" />
+            <element signature="e#344814#345233#2" expanded="true" />
+            <element signature="n#script#0;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#3;n#tr#1;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#3;n#tr#2;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#3;n#tr#3;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#3;n#tr#4;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#3;n#tr#5;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" />
+            <element signature="e#1380604#1380983#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
